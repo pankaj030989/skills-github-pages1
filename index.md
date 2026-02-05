@@ -1,5 +1,5 @@
 ---
-title: Thought of the day
+title: Thought of the Day
 ---
 
 
