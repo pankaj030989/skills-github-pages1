@@ -1,5 +1,5 @@
 ---
-title: Day-1
+title: Thought of the day
 ---
 
 ###### A little Progress a Day
